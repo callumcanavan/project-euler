@@ -5,5 +5,5 @@ If parts of a notebook aren't rendering properly, try viewing it [here](https://
 
 # Depends
 ```
-numpy math itertools scipy
+numpy scipy math itertools
 ```
