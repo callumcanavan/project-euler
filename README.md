@@ -4,6 +4,6 @@ My Python solutions to the Project Euler programming problems, as found [here](h
 If parts of a notebook aren't rendering properly, try viewing it [here](https://nbviewer.jupyter.org).
 
 # Depends
-'''
+```
 numpy math itertools scipy
-'''
+```
